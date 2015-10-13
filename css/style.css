@@ -1,0 +1,89 @@
+hr{
+	border-top: 2px solid #F84C1E;
+}
+
+.col-md-12{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.col-md-12 i{
+	color: #F84C1E;
+}
+
+.btn-primary {
+	background-color: #F84C1E;
+	color: white;
+	border-radius: 15px;
+	border-color: white;
+}
+
+.btn-primary:focus {
+	background-color: #F84C1E;
+	color: white;
+	border-radius: 15px;
+	border-color: white;
+}
+
+.btn-primary:hover {
+	background-color: #F84C1E;
+	color: white;
+	border-radius: 15px;
+	border-color: white;
+}
+
+#draw{
+	background-color: #fff;
+	color: #F84C1E;
+	border-radius: 15px;
+	border-color: #F84C1E;	
+}
+
+
+.btn-group button{
+	background-color: #F84C1E;
+	color: white;
+	border-radius: 15px;
+	border-color: white;
+}
+
+.btn-group button:hover{
+	color: white;
+}
+
+.sum{
+	background-color: #F84C1E;
+	color: white;
+	border-radius: 15px;
+	border-color: white;
+}
+
+
+.form-horizontal button{
+	background-color: #F84C1E;
+	border-color: transparent;
+	border-radius: 250px;
+	color: white;
+	outline: transparent;
+}
+
+.form-horizontal button:hover{
+	outline: transparent;
+	color: white;
+};
+
+.form-horizontal button:focus{
+	outline: transparent;
+	color: white;
+};
+
+
+.form-horizontal button:active{
+	outline: transparent;
+	color: white;
+};
+
+
+
+
